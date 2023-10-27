@@ -67,3 +67,7 @@ footer {
     align-items: center;
     background-color: white;        
 }
+
+.active{
+    background-color: lightseagreen;
+}
