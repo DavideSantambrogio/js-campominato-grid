@@ -6,4 +6,8 @@ Quando l'utente clicca su ogni cella, la cella cliccata si colora di azzurro ed 
 
 **soluzione**
 - con event listener al bottone e crea con ciclo for una serie di numeri dall'1 al 100
--stampa il risultato all'interno del div "cell
+- stampa il risultato all'interno del div "cell
+- con event listener sulla cella cambia il colore
+
+
+
